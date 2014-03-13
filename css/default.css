@@ -382,12 +382,14 @@ header {
 }
 .quote p {
 	float: left;
+	margin: -6px;
+	padding: 0px;
 	margin-left: 64px;
 	width: 140px;
 }
 .quote p a {
 	float: right;
-	margin-top: 1px;
+	margin-top: 2px;
 	margin-right: 40px;
 	display: block;
 	width: 0;
